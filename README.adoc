@@ -1,2 +1,2 @@
-image:https://github-readme-stats.vercel.app/api?username=sunakan&count_private=true&theme=vue&show_icons=true[] 
-image:https://github-readme-stats.vercel.app/api/top-langs/?username=sunakan&count_private=true&theme=vue&show_icons=true&layout=compact[]
+image:https://github-readme-stats.vercel.app/api?username=sunakan&count_private=true&theme=buefy&show_icons=true[] 
+image:https://github-readme-stats.vercel.app/api/top-langs/?username=sunakan&count_private=true&theme=buefy&layout=compact[]
